@@ -1,5 +1,3 @@
-
-
 from helpers import *
 
 # More constants you'll want to use:
